@@ -9,8 +9,8 @@ using System.Threading.Tasks;
 namespace HelloWorld27
 {
     // Enumerações (Enum):
-    // - É um tipo especial que serve para especificar d eforma literal um conjunto de constantes relacionadas.
-    // - Melhor semântica, é do tipo valor, código mais legível, e auxiliado pelo compilador.
+    // - É um tipo especial que serve para especificar de forma literal um conjunto de constantes relacionadas.
+    // - Melhor semântica, é do tipo valor, código mais legível e auxiliado pelo compilador.
     class Program
     {
         static void Main(string[] args)
