@@ -8,6 +8,12 @@ using System.Threading.Tasks;
 
 namespace HelloWorld27
 {
+        // Composição de objetos:
+        // É um tipo de associação que permite que um objeto contenha outro. possui a relação "tem-um" ou "tem-vários".
+        // - Organização: divisão de responsabilidades
+        // - Coesão
+        // - Flexibilidade
+        // - Reuso
     class Program
     {
         static void Main(string[] args)
